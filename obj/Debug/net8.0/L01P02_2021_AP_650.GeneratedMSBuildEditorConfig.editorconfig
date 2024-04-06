@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = L01P02_2021_AP_650
+build_property.RootNamespace = L01P02_2021_AP_650
+build_property.ProjectDir = /home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Alumnos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bW5vcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Alumnos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bW5vcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Alumnos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bW5vcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Alumnos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bW5vcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Alumnos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bW5vcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Departamentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0YW1lbnRvcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Departamentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0YW1lbnRvcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Departamentos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0YW1lbnRvcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Departamentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0YW1lbnRvcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Departamentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0YW1lbnRvcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Facultades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmFjdWx0YWRlcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Facultades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmFjdWx0YWRlcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Facultades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmFjdWx0YWRlcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Facultades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmFjdWx0YWRlcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Facultades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmFjdWx0YWRlcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Materias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWF0ZXJpYXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Materias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWF0ZXJpYXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Materias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWF0ZXJpYXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Materias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWF0ZXJpYXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Materias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWF0ZXJpYXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/xavier/Documentos/DWA/Laboratorio 2/L01P02_2021_AP_650/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wv9nrlzlpg

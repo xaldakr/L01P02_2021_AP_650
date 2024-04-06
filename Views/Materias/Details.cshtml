@@ -1,0 +1,36 @@
+@model L01P02_2021_AP_650.Models.mater
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>mater</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.materia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.materia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.unidades_valorativas)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.unidades_valorativas)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.estado)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.estado)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
